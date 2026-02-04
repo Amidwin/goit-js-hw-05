@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+.vscode/
+.DS_Store
+.env
+.env.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+goit-js-hw-02/
+goit-js-hw-03/
+node_modules/
+archive/
+sandbox/
